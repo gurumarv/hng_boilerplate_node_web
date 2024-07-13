@@ -1,8 +1,8 @@
-# [App Name] Integration Documentation
+# HNG Boilerplate Integration Documentation
 
 ## Overview
 
-[Description]
+The HNG API boilerplate is a template for Node.js stacks that shows simple, secure and efficient ways of achieving common things that one tends to need for a Node.js API.
 
 ## Folder Structure
 
@@ -261,4 +261,4 @@ The detailed database design can be found in the database schema document linked
 
 ## Versioning
 
-This project is versioned to ensure backward compatibility and easy maintenance. The current version is [version].
+This project is versioned to ensure backward compatibility and easy maintenance. The current version is 1.0.0.
