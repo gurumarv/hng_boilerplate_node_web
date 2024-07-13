@@ -251,6 +251,12 @@ By following these steps, you should have your Node.js and TypeScript applicatio
 
 All API endpoints can be referenced in the [API Reference](API_REFERENCE.md) document.
 
+## API Design
+The detailed API design can be found in the OpenAPI specification document linked below:
+[API Design]([https://github.com/YOUR-USERNAME](https://app.swaggerhub.com/apis/IGMARVVVI/HNG-Project-Stage-3/1.0.0#/))
+
+## Database Design
+[Data Design]((https://dbdiagram.io/d/DevNinjas-6691703b9939893daecb58eb))
 ## Versioning
 
 This project is versioned to ensure backward compatibility and easy maintenance. The current version is [version].
