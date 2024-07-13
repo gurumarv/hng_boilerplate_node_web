@@ -2,7 +2,7 @@
 
 ## Overview
 
-The HNG API boilerplate is a template for Node.js stacks that shows simple, secure and efficient ways of achieving common things that one tends to need for a Node.js API.
+The HNG API boilerplate is a template for Node.js/TypeScript stacks that shows simple, secure and efficient ways of developing a Node.js/TypeScript API.
 
 ## Folder Structure
 
